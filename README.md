@@ -1,4 +1,4 @@
-Aloha Apparel V2 - RED ACADEMY: Project 2
+Aloha Apparel V2 - RED ACADEMY: Project 1.5
 
 Project Summary
 
@@ -16,4 +16,4 @@ flexboxes
 
 What did I learn?
 
-This project was my second opportunity to exercise the HTML and CSS skills taught throughout the first two weeks of web development training. Having comppleted the first part using floats gave me a greater appreciation of the functionality of flexbox. Also, I learned how relativly easy it is to use jQuery plug-ins to achieve certain results. 
+This project was my second opportunity to exercise the HTML and CSS skills taught throughout the first two weeks of web development training. Having comppleted the first part using floats gave me a greater appreciation of the functionality of flexbox. Also, I learned how relativly easy it is to use jQuery plug-ins to achieve certain results.
